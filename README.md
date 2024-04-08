@@ -7,7 +7,7 @@ Quick IQ is a mobile application project aimed at increasing the cognition level
 There is 3 part of Quick IQ application. The first one is frontend written with Flutter, second one is rest-api server connected to a sql database (mysql) written with nodejs, and lastly this project, bot server. 
 
 1. [Quick IQ Flutter Application](https://github.com/DogukanTopcu/quick_iq_flutter)
-2. [Quick IQ Nodejs MySQL Server](https://github.com/DogukanTopcu/quick_iq_sql_server)
+2. [Quick IQ Nodejs MySQL Server](https://github.com/DogukanTopcu/quick_iq_server)
 3. [Quick IQ Flask Bot Server](https://github.com/DogukanTopcu/quick_iq_bot_server)
 
 Bot server allows the bot in the application interface to respond according to the user's actions and answers.
